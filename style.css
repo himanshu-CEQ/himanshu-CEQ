@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{
+    background-color: aqua;
+    color: rgba(0, 0, 255, 0.849);
+}
+.green{
+    background-color: burlywood;
+    color: cornflowerblue;
+}
